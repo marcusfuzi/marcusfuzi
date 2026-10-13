@@ -1,46 +1,142 @@
-<!-- ======================================================= -->
-<!-- 🔥 ANIMATED HEADER WITH DYNAMIC WAVE & TYPING SVG -->
-<!-- ======================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Hi%20there,%20I'm%20Tushar%20Singh%20Bisht&fontSize=38&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%7C%20Software%20Engineer&descAlignY=62&descAlign=50" alt="Header Banner" width="100%" />
 
-  <br/>
+# 🗨️Hey, I'm Tushar Singh Bisht
+# 
+### Computer Science & Engineering Undergraduate
 
-  <!-- Dynamic Typing Animation -->
-  <a href="https://github.com/marcusfuzi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=650&lines=Computer+Science+%26+Engineering+Scholar;Full-Stack+%26+Distributed+Systems+Enthusiast;Data+Structures+%26+Algorithms+Solver;Passionate+About+Scalable+Architecture;Always+Building+%26+Open+Source+Advocate" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Python+Programmer;Cybersecurity+Learner;Exploring+the+World+of+Technology" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="https://github.com/marcusfuzi">
-      <img src="https://komarev.com/ghpvc/?username=marcusfuzi&style=flat-square&color=00F5D4&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-    <a href="https://linkedin.com/in/tushar-singh-bisht">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/marcusfuzi">
-      <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X/Twitter" />
-    </a>
-    <a href="https://leetcode.com/marcusfuzi">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="mailto:tusharsinghbisht@example.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+[![GitHub](https://img.shields.io/badge/GitHub-marcusfuzi-181717?style=for-the-badge&logo=github)](https://github.com/marcusfuzi)
+[![Profile Views](https://komarev.com/ghpvc/?username=marcusfuzi&style=for-the-badge&color=blue)](https://github.com/marcusfuzi)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Tushar Singh Bisht
-github: marcusfuzi
-degree: B.Tech / B.S. in Computer Science & Engineering
-focus_areas: [Distributed Systems, Full-Stack Development, Cloud Computing, High-Performance Systems]
-current_focus: Building microservices & mastering advanced algorithms
-learning: Rust & Kubernetes internals
-passion: Architecting clean, resilient, and performant software solutions
-quote: "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
+username: marcusfuzi
+designation: Computer Science & Engineering Undergraduate
+
+focus:
+  - Python Programming
+  - Cybersecurity
+  - MySQL & Database Management
+  - Software Development
+  - Problem Solving
+
+currently_learning:
+  - Advanced Python
+  - Cybersecurity Fundamentals
+  - SQL & Database Design
+  - Network Security
+  - Secure Coding Practices
+
+interests:
+  - Technology & Innovation
+  - Ethical Hacking
+  - Software Engineering
+  - Computer Systems
+  - Open Source
+
+mindset:
+  - Think logically
+  - Learn continuously
+  - Build practically
+  - Explore new technologies
+  - Improve every day
+```
+
+💡 I am passionate about technology, programming, and cybersecurity. I enjoy exploring new concepts, developing practical skills, and understanding how secure and efficient software systems work.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Areas of Interest
+
+<p>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Software_Development-00599C?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem_Solving-FF9800?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+- Python Programming & Automation
+- Cybersecurity Fundamentals
+- Database Management with MySQL
+- Ethical Hacking Concepts
+- Software Development
+
+---
+
+## ⚡ Developer Mindset
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Tushar Singh Bisht"
+        self.username = "marcusfuzi"
+        self.interests = [
+            "Python",
+            "Cybersecurity",
+            "MySQL"
+        ]
+
+    def mindset(self):
+        return "Learn | Build | Secure | Improve"
+
+
+me = Developer()
+print(me.mindset())
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcusfuzi&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusfuzi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcusfuzi)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Turning curiosity into knowledge and ideas into reality."
+
+**Thanks for visiting my profile!** ⭐
+
+</div>
