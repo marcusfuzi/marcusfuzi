@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 About Me
 
-<!--
-**marcusfuzi/marcusfuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+name: Tushar Singh Bisht
+username: marcusfuzi
+designation: Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+focus:
+  - Python Programming
+  - Cybersecurity
+  - MySQL & Database Management
+  - Software Development
+  - Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning:
+  - Advanced Python
+  - Cybersecurity Fundamentals
+  - SQL & Database Design
+  - Ethical Hacking
+  - Secure Coding Practices
+
+technical_interests:
+  - Programming
+  - Network Security
+  - Database Management
+  - Technology & Innovation
+
+mindset:
+  - Learn
+  - Build
+  - Explore
+  - Secure
+  - Improve
+
+💡 I enjoy exploring technology, writing code, understanding security concepts, and turning ideas into practical solutions.
