@@ -2,7 +2,7 @@
 <div align="center">
 
 # Tushar Singh Bisht
-
+# HI 👋🏽 
 ### Computer Science & Engineering Undergraduate
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Python+Programmer;Cybersecurity+Learner;Exploring+the+World+of+Technology" alt="Typing SVG" />
